@@ -1,4 +1,4 @@
-# camx-exhibitor-automation
+
 # CAMX Exhibitor Automation
 
 ## Overview
